@@ -1,4 +1,0 @@
-RACI
-SMART goals
-
-![[88d3804e-a819-4780-ada0-9438b99fe727.png]]
