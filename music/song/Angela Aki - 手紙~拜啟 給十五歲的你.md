@@ -8,10 +8,3 @@ rank: T1
 remark: 
 created: 2022-12-25
 ---
-
-Artist:: Angela Aki
-Url:: https://www.youtube.com/watch?v=siQJhIp-UTU
-Language:: 日文
-SongTag:: 勵志
-Rank:: T1
-Remark:: 

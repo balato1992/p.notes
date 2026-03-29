@@ -8,10 +8,3 @@ rank:
 remark: 甲鉄城のカバネリ ED
 created: 2022-12-25
 ---
-
-Artist:: Aimer
-Url:: https://www.youtube.com/watch?v=gN24W_psMpE
-Language:: 
-SongTag:: Anime
-Rank:: 
-Remark:: 甲鉄城のカバネリ ED

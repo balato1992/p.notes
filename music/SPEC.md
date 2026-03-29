@@ -83,3 +83,14 @@ created: 2022-12-25
 - `_pure_music.md`：純音樂收藏，按風格分類（#Troll, #Sad 等）
 - `summary.md`：Dataview 表格，快速瀏覽所有歌曲
 - `summary_data.md`：Dataview 統計，藝術家和標籤分布
+
+## Dataview 查詢
+
+Dataview 可直接查詢 frontmatter 欄位，欄位名稱需使用大寫開頭：
+- `title` → `Title`
+- `artist` → `Artist`
+- `url` → `Url`
+- `language` → `Language`
+- `tags` → `Tags`
+- `rank` → `Rank`
+- `remark` → `Remark`

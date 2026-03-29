@@ -14,8 +14,8 @@ GROUP BY AllArtist
 
 ```dataview
 TABLE WITHOUT ID
-  AllSongTag
+  AllTags
 FROM "p.notes/music/song"
-FLATTEN SongTag AS AllSongTag
-GROUP BY AllSongTag
+FLATTEN Tags AS AllTags
+GROUP BY AllTags
 ```
