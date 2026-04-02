@@ -12,4 +12,3 @@
 ### 脊椎保健達人鄭雲龍
 
 [強背運動六大動作完整教學影片](http://www.bodylearning.com.tw/mediareport/detail/23/?utm_source=youtube&utm_medium=ps&utm_content=speech6&utm_campaign=seo)
-
